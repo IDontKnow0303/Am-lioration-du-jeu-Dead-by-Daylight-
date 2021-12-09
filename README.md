@@ -14,3 +14,9 @@
 - Sources lumineuses
 - Caméra de sécurité
 - Portes automatiques
+
+## Défauts
+- Trop enfantin
+- Déplacements limités
+- Manque de réalisme au fil du temps
+
