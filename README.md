@@ -12,4 +12,4 @@
 <img src="Office1.png" width="300" height="180">
 <img src="Office2.png" width="300" height="180">
 <img src="Office3.png" width="300" height="180">
-<img src="Bedroom.png" width="300" height="180">
+<img src="Bedroom.jpg" width="300" height="180">
