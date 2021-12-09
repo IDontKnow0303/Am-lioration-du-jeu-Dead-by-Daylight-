@@ -20,3 +20,4 @@
 - Déplacements limités
 - Manque de réalisme au fil du temps
 
+<img src="SB.jpg" width="300" height="180">
