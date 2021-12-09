@@ -2,6 +2,7 @@
 <img src="FNAF.jpg" width="360" height="180">
 
 ## Présentation du jeu
+- Jeu multiplateforme
 - Meutres dans un restaurant
 - Phénomènes paranormaux 
 - Survie
