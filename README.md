@@ -9,6 +9,6 @@
 <img src="Office1.png" width="300" height="180">
 
 ## Mécaniques
-- Lampe de poche
+- Sources lumineuses
 - Caméra de sécurité
 - Portes automatiques
