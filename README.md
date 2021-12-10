@@ -33,6 +33,7 @@
 - Inclure des éléments du paranormal (boîte aux esprits par exemple)
 - Jeu narratif
 - Adaptation aux années 80
+- Conservation de certains éléments du jeu original
 
 <img src="SpiritBox.jpg" width="180" height="360">
 <img src="Showbiz.jpg" width="500" height="250">
