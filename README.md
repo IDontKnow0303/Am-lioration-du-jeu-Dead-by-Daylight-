@@ -23,7 +23,7 @@
 ## Défauts
 - Thème de l'horreur oublié
 - Déplacements limités
-- Manque de réalisme au fil du temps
+- L'histoire ne fait plus de sens
 
 <img src="SB.jpg" width="300" height="180">
 
