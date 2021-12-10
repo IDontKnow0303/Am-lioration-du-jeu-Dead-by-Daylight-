@@ -32,12 +32,15 @@
 - Intégration d'éléments retrouvés dans les documentaires criminels
 - Inclure des éléments du paranormal (boîte aux esprits par exemple)
 - Jeu narratif
+- Adaptation aux années 80
 
 <img src="SpiritBox.jpg" width="180" height="360">
 <img src="Showbiz.jpg" width="500" height="250">
 <img src="BlairWitch.gif" width="360" height="180">
 <img src="ManOfMedan.jpg" width="360" height="180">
 <img src="UntilDawn.jpeg" width="360" height="180">
+<img src="FoxyRun.gif" width="360" height="180">
+
 
 
 
