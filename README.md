@@ -21,7 +21,7 @@
 - Portes automatiques
 
 ## Défauts
-- Trop enfantin
+- Thème de l'horreur oublié
 - Déplacements limités
 - Manque de réalisme au fil du temps
 
