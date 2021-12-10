@@ -29,7 +29,7 @@
 
 <img src="SpiritBox.jpg" width="180" height="360">
 <img src="Showbiz.jpg" width="500" height="250">
-<img src="BlairWitch.gif" width="500" height="250">
+<img src="BlairWitch.gif" width="360" height="180">
 
 
 
