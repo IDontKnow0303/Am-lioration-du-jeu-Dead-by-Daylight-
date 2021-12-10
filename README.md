@@ -18,7 +18,7 @@
 ## Mécaniques
 - Sources lumineuses
 - Caméra de sécurité
-- Portes automatiques
+- Portes
 
 ## Défauts
 - Thème de l'horreur oublié
