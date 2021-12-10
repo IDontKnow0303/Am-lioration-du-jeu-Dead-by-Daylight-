@@ -31,6 +31,10 @@
 <img src="SpiritBox.jpg" width="180" height="360">
 <img src="Showbiz.jpg" width="500" height="250">
 <img src="BlairWitch.gif" width="360" height="180">
+<img src="ManOfMedan.jpg" width="360" height="180">
+<img src="UntilDawn.jpeg" width="360" height="180">
+
+
 
 ## Des fanatiques du jeu qui sont d'accord
 <img src="Comment1.png" width="1000" height="200">
