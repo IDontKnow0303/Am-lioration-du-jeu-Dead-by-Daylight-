@@ -42,6 +42,7 @@
 <img src="ManOfMedan.jpg" width="360" height="180">
 <img src="UntilDawn.jpeg" width="360" height="180">
 <img src="FoxyRun.gif" width="360" height="180">
+<img src="Minigames.jpg" width="360" height="180">
 
 
 
