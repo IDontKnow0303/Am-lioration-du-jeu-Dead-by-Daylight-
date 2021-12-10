@@ -7,6 +7,7 @@
 - Phénomènes paranormaux 
 - Survie
 - Inspiration pour plusieurs concepteurs de jeux
+- Création de Scott Cawthon
 
 <img src="Office1.png" width="360" height="180">
 <img src="Staring.png" width="360" height="180">
