@@ -38,7 +38,7 @@
 
 ## Des fanatiques du jeu qui sont d'accord
 <img src="Comment1.png" width="1000" height="200">
-<img src="Comment2.png" width="1000" height="300">
+<img src="Comment2.png" width="1000" height="200">
 <img src="Dawko.jpg" width="180" height="180">
 
 
