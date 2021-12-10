@@ -33,6 +33,13 @@
 <img src="BlairWitch.gif" width="360" height="180">
 
 ## Des fanatiques du jeu qui sont d'accord
+<img src="Capture d'écran (4).png" width="360" height="180">
+<img src="Capture d'écran (5).png" width="360" height="180">
+<img src="Dawko.jpg" width="360" height="180">
+
+
+
+
 
 
 
