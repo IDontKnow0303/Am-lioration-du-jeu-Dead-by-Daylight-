@@ -26,6 +26,7 @@
 - Recréation des personnages 
 - Intégration d'éléments retrouvés dans les documentaires criminels
 - Inclure des éléments du paranormal (boîte aux esprits par exemple)
+- Jeu narratif
 
 <img src="SpiritBox.jpg" width="180" height="360">
 <img src="Showbiz.jpg" width="500" height="250">
