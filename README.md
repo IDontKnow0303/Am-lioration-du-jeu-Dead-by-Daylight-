@@ -11,6 +11,7 @@
 <img src="Office1.png" width="360" height="180">
 <img src="Staring.png" width="360" height="180">
 <img src="FanGames.jpg" width="360" height="180">
+<img src="ScottCawthon.jpg" width="180" height="180">
 
 ## Mécaniques
 - Sources lumineuses
