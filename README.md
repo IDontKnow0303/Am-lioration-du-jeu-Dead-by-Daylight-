@@ -3,7 +3,7 @@
 
 ## Présentation du jeu
 - Jeu multiplateforme
-- Meutres dans un restaurant
+- Meurtres dans un restaurant
 - Phénomènes paranormaux 
 - Survie
 - Inspiration pour plusieurs concepteurs de jeux
