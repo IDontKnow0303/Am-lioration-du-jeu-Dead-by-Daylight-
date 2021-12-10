@@ -21,3 +21,10 @@
 - Manque de réalisme au fil du temps
 
 <img src="SB.jpg" width="300" height="180">
+
+## Solutions
+- Recréation des personnages 
+- Intégration d'éléments retrouvés dans les documentaires criminels
+- Inclure des éléments du paranormal (boîte aux esprits par exemple)
+
+<img src="dotNET.png" width="300" height="180">
