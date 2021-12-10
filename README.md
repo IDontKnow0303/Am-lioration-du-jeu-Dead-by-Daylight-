@@ -33,8 +33,8 @@
 <img src="BlairWitch.gif" width="360" height="180">
 
 ## Des fanatiques du jeu qui sont d'accord
-<img src="Comment1.png" width="360" height="360">
-<img src="Comment2.png" width="360" height="360">
+<img src="Comment1.png" width="360" height="80">
+<img src="Comment2.png" width="360" height="80">
 <img src="Dawko.jpg" width="180" height="180">
 
 
