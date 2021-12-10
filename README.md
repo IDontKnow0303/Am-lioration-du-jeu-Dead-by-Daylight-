@@ -27,4 +27,4 @@
 - Intégration d'éléments retrouvés dans les documentaires criminels
 - Inclure des éléments du paranormal (boîte aux esprits par exemple)
 
-<img src="SpiritBox.jpg" width="300" height="180">
+<img src="SpiritBox.jpg" width="180" height="360">
